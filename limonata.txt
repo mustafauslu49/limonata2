@@ -5,3 +5,4 @@ Limonata Tarifi
 4 Esmer seker ekle
 5 limon tuzu ekle
 6 Buz ekle
+7 Nane ekle
