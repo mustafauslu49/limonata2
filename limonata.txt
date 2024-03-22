@@ -4,3 +4,4 @@ Limonata Tarifi
 3 seker (karistir)
 4 Esmer seker ekle
 5 limon tuzu ekle
+6 Buz ekle
